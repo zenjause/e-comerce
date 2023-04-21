@@ -1,0 +1,35 @@
+.menu{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 100%;
+    margin-top: 3.7rem;
+    margin-bottom: 3.7rem;
+}
+.search{
+    display: flex;
+    align-items: center;
+    width: 39rem;
+    background: #F5F5F5;
+    border-radius: 2rem;
+    justify-content: space-between;
+    padding: .8rem 1.6rem .8rem 1.6rem;
+
+}
+.text-search{
+    color: #A2A2A2;
+
+}
+.login{
+    width: 18rem;
+    height: 5rem;
+    border: solid #2A7AE4 1px;
+    color: #2A7AE4;
+    padding: 1.6rem;
+    background: #FFFFFF;
+
+
+}
