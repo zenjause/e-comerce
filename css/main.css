@@ -76,9 +76,9 @@ main{
     align-content: center;
     margin-bottom: 4rem;
 }
-.card img{
-    max-width: 176px;
-    max-height: 252px;
+.card-section img{
+    max-width: 160px;
+    max-height: 160px;
     height: auto;
     width: auto;
 }
